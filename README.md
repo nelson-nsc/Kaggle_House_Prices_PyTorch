@@ -3,10 +3,10 @@
 A Simple Pytorch deep learning model for predicting the house price.
 
 # Table of Contents
-1. [Project Objective](#objective)
+1. [Project Objective](#p objective)
 2. [Python Packages](#packages)
 
-## Project Objective <a name="objective"></a>
+## Project Objective <a name="p objective"></a>
 some text
 
 ## Python Packages
