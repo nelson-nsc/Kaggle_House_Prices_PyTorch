@@ -16,4 +16,4 @@ This is my first project in PyTorch. The aim of the project is to get myself fam
 4. pandas
 
 ## Acknowledgement
-This project is heavily cited and supported by the free online textbook [Dive into Deep Learning] (https://d2l.ai/). I stress again this project is not entirely original and the goal is to practise deep learning in PyTorch and successively deploy on GitHub.
+This project is heavily cited and supported by the free online textbook [Dive into Deep Learning](https://d2l.ai/). I stress again this project is not entirely original and the goal is to practise deep learning in PyTorch and successively deploy on GitHub.
